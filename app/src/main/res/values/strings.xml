@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="user_controls_in_android">User Controls in Android</string>
+    <string name="english">English</string>
+    <string name="other">Tamil</string>
+    <string name="radio_button">Gender : </string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="off">OFF</string>
+    <string name="e_mail_address">E-mail Address</string>
+    <string name="hello_this_is_first_app">Linear Layout Example</string>
+    <string name="user_control_in_android">User Control in Android</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="check_box">Languages : </string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="back">Submit</string>
+    <string name="name">Name  :</string>
+    <string name="sample">sample</string>
+    <string name="mobile_number">Mobile Number :</string>
+    <string name="email_address">Email Address :</string>
+</resources>
